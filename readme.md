@@ -1,1 +1,1 @@
-## Hello Gits
+## Hello Git
